@@ -1,0 +1,107 @@
+1)CREATE TABLE employee(
+	
+	id INTEGER PRIMARY KEY,
+	name VARCHAR(50) NOT NULL,
+	birthday DATE ,
+	email VARCHAR(100)
+);
+
+2)INSERT TABLE
+insert into employee (id, name, birthday, email) values (1, 'Nydia', '1984-05-26', 'nathowe0@cnn.com');
+insert into employee (id, name, birthday, email) values (2, 'Ward', '1996-03-14', null);
+insert into employee (id, name, birthday, email) values (3, 'Carr', '1961-01-10', 'crustidge2@is.gd');
+insert into employee (id, name, birthday, email) values (4, 'Freddy', '1993-07-14', 'fgouldeby3@ifeng.com');
+insert into employee (id, name, birthday, email) values (5, 'Jaime', '1966-07-25', null);
+insert into employee (id, name, birthday, email) values (6, 'Zedekiah', '1980-10-31', 'zconnow5@seattletimes.com');
+insert into employee (id, name, birthday, email) values (7, 'Coriss', '1983-09-27', 'cgarrand6@nymag.com');
+insert into employee (id, name, birthday, email) values (8, 'Bertram', '1985-03-27', 'bbrailsford7@europa.eu');
+insert into employee (id, name, birthday, email) values (9, 'Jobyna', '1982-12-30', 'jtopping8@sbwire.com');
+insert into employee (id, name, birthday, email) values (10, 'Stephi', '1966-02-18', 'sdruery9@tripadvisor.com');
+insert into employee (id, name, birthday, email) values (11, 'Brander', '1961-05-11', null);
+insert into employee (id, name, birthday, email) values (12, 'Kamila', '1993-10-27', 'ksellersb@edublogs.org');
+insert into employee (id, name, birthday, email) values (13, 'Geraldine', '1967-09-24', 'gwhitecrossc@unesco.org');
+insert into employee (id, name, birthday, email) values (14, 'Devinne', '1966-07-20', 'dnunnsd@istockphoto.com');
+insert into employee (id, name, birthday, email) values (15, 'Tod', '1998-04-11', 'tstudearte@merriam-webster.com');
+insert into employee (id, name, birthday, email) values (16, 'Di', '1987-02-18', 'ddavyf@hexun.com');
+insert into employee (id, name, birthday, email) values (17, 'Amalea', '1973-05-25', 'atorricinag@nifty.com');
+insert into employee (id, name, birthday, email) values (18, 'Baxie', '1965-05-16', null);
+insert into employee (id, name, birthday, email) values (19, 'Putnem', '1975-06-18', 'phoulridgei@dagondesign.com');
+insert into employee (id, name, birthday, email) values (20, 'Mandel', '1989-12-28', 'mmannaj@jugem.jp');
+insert into employee (id, name, birthday, email) values (21, 'Masha', '1992-05-03', 'mwyllcockk@nature.com');
+insert into employee (id, name, birthday, email) values (22, 'Flinn', '1968-04-29', 'falsobrookl@purevolume.com');
+insert into employee (id, name, birthday, email) values (23, 'Lorrin', '1997-06-30', 'lloxdalem@dyndns.org');
+insert into employee (id, name, birthday, email) values (24, 'Deloria', '1994-05-30', 'dmyderscoughn@discuz.net');
+insert into employee (id, name, birthday, email) values (25, 'Jory', '1967-02-08', 'jfeldsterno@weebly.com');
+insert into employee (id, name, birthday, email) values (26, 'Benoite', '1977-02-24', null);
+insert into employee (id, name, birthday, email) values (27, 'Pierce', '1967-01-25', 'pborrettq@home.pl');
+insert into employee (id, name, birthday, email) values (28, 'Vere', '1978-08-14', 'vsummerscalesr@geocities.jp');
+insert into employee (id, name, birthday, email) values (29, 'Pollyanna', '1984-05-31', 'pnottons@feedburner.com');
+insert into employee (id, name, birthday, email) values (30, 'Ivette', '1995-04-26', 'icheasmant@hao123.com');
+insert into employee (id, name, birthday, email) values (31, 'Northrup', '1965-12-07', 'nmaccardu@pagesperso-orange.fr');
+insert into employee (id, name, birthday, email) values (32, 'Lesya', '1963-01-11', 'lrylesv@smh.com.au');
+insert into employee (id, name, birthday, email) values (33, 'Selia', '1989-02-25', 'sspranklingw@samsung.com');
+insert into employee (id, name, birthday, email) values (34, 'Eugene', '1972-12-06', null);
+insert into employee (id, name, birthday, email) values (35, 'Itch', '1994-12-18', 'iyesenevy@reuters.com');
+insert into employee (id, name, birthday, email) values (36, 'Jinny', '1971-02-18', 'jshandz@netscape.com');
+insert into employee (id, name, birthday, email) values (37, 'Lennie', '1983-10-18', 'lalpine10@army.mil');
+insert into employee (id, name, birthday, email) values (38, 'Jolyn', '1968-01-06', 'jhenrie11@yahoo.co.jp');
+insert into employee (id, name, birthday, email) values (39, 'Cecil', '1993-03-25', 'cengall12@linkedin.com');
+insert into employee (id, name, birthday, email) values (40, 'Chelsey', '1980-08-26', 'cmatessian13@plala.or.jp');
+insert into employee (id, name, birthday, email) values (41, 'Robinett', '1976-01-19', 'rsweetnam14@ca.gov');
+insert into employee (id, name, birthday, email) values (42, 'Liuka', '1964-08-04', 'lemsden15@aol.com');
+insert into employee (id, name, birthday, email) values (43, 'Allyson', '1980-01-07', 'ajacquet16@google.es');
+insert into employee (id, name, birthday, email) values (44, 'Maryann', '1962-03-18', 'mshannahan17@psu.edu');
+insert into employee (id, name, birthday, email) values (45, 'Neilla', '1995-11-25', 'nrouzet18@sakura.ne.jp');
+insert into employee (id, name, birthday, email) values (46, 'Norrie', '1992-04-11', 'ngitting19@timesonline.co.uk');
+insert into employee (id, name, birthday, email) values (47, 'Darsie', '1978-01-15', 'dcream1a@digg.com');
+insert into employee (id, name, birthday, email) values (48, 'Allie', '1966-06-12', null);
+insert into employee (id, name, birthday, email) values (49, 'Giffard', '1984-10-28', 'gmessham1c@psu.edu');
+insert into employee (id, name, birthday, email) values (50, 'Jeff', '1962-12-09', 'jgreenough1d@berkeley.edu');
+
+3)UPDATE TABLE
+UPDATE employee
+SET name = 'Ahmet', birthday = '1939-01-01', email = 'ahmet41@hotmail.com'
+WHERE id = 12 
+RETURNING *;
+
+UPDATE employee
+SET  birthday = '1949-09-20', email = 'jeff/213@edu.com'
+WHERE name = 'Jeff'
+RETURNING *;
+
+UPDATE employee
+SET birthday = '1930-01-01'
+WHERE email = 'mshannahan17@psu.edu'
+RETURNING *;
+
+UPDATE employee
+SET name = 'Deneme'
+WHERE id BETWEEN 12 AND 14
+RETURNING *;
+
+UPDATE employee
+SET name = 'Alper', email = 'alperas@asas.com'
+WHERE email = 'pborrettq@home.pl'
+RETURNING *;
+
+4)DELETE TABLE
+
+DELETE FROM employee WHERE id = 21 RETURNING *;
+
+DELETE FROM employee WHERE name='Cecil' RETURNING *;
+
+DELETE FROM employee WHERE birthday ='1962-12-09' RETURNING *;
+
+DELETE FROM employee WHERE email='alperas@asas.com' RETURNING *;
+
+DELETE FROM employee WHERE id= 45 RETURNING *;
+
+
+
+
+
+
+
+
+
+
